@@ -1,5 +1,5 @@
 
-[![April banner](https://assets-global.website-files.com/61e01e9c6a408f88a249175e/61e01e9c6a408f34d44917a0_april-logo-header.svg)](https://www.getapril.com/for-developers)
+[![April banner](https://assets-global.website-files.com/61a4e82443d709d24ca547d0/63765f1ec7c56b24b38d48c1_April%20logo.svg)](https://www.getapril.com/for-developers)
 
 Use April’s intelligent engine to offer embedded tax experiences.
 Seamlessly embed tax logic into your app in minutes.
